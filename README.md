@@ -20,7 +20,7 @@
   <a  href="https://pytorch.org/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"  title="PyTorch" alt="PyTorch"  width="40"  height="40"/>  </a>
   <a  href="https://skorch.readthedocs.io/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/skorch-dev/skorch/master/assets/button.svg"  title="Skorch" alt="Skorch"  width="40"  height="40"/>  </a>
   <a  href="https://www.tensorflow.org/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"  title="TensorFlow" alt="TensorFlow"  width="40"  height="40"/>  </a>
-  <a  href="https://faiss.ai/"  target="_blank"  rel="noreferrer">  <img  src="https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo_%28cropped%29.svg"  title="Faiss" alt="Faiss"  width="40"  height="40"/>  </a>
+  <a  href="https://faiss.ai/"  target="_blank"  rel="noreferrer">  <img  src="https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo_%28cropped%29.svg"  title="FAISS" alt="FAISS"  width="40"  height="40"/>  </a>
 </p>
 <hr>
 <p  align="left">
